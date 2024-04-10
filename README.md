@@ -10,7 +10,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/invoice-ocr.git
+git clone https://github.com/harshalgithub10/invoice-ocr
 Install the required dependencies:
 
 bash
