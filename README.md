@@ -19,7 +19,7 @@ pip install -r requirements.txt
 Usage
 Place your invoice images in the images/ directory.
 
-Run the main.py script:
+
 
 bash
 Copy code
